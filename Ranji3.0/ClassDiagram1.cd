@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ranji3._0.Data_add" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAIAACAACBAAAACCABACAAAZAAAAAGAAAQAAAIA=</HashCode>
+      <FileName>Data_add.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ranji3._0.data_config" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAAAUAAACAAAACAAg6AAAIAHQAAAQAAAI=</HashCode>
+      <FileName>data_config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ranji3._0.IniFile" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAgAAIAAAAAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IniFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ranji3._0.MainView" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gYAAAAAAACAAAQQAAACCIABCAIAIAAEAAEQAAAAUQEA=</HashCode>
+      <FileName>MainView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ranji3._0.Port_config" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAAAAAAACAAAACAAAAAAACAAAAAAAAAAI=</HashCode>
+      <FileName>Port_config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ranji3._0.Program" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ranji3._0.RealTime_data" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>RealTime_data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ranji3._0.port_moudbus" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAABAAAAAAAAAAAAAAAAACBAAAAAAAgAAAAAA=</HashCode>
+      <FileName>port_modbus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ranji3._0.SQL_Connection" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAABAAAAAAAAAIAAAACEAAAAAAAAAAA=</HashCode>
+      <FileName>SQL_Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ranji3._0.sql_test" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAEAACAAAAAAABCAIgACAAgIAAAAAEAAAAAAAAI=</HashCode>
+      <FileName>sql_test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ranji3._0.Welcome" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAAAAAACAIAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Welcome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ranji3._0.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ranji3._0.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAIAAAAAABAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
